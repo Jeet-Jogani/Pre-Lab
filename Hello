@@ -1,15 +1,11 @@
-# First-lecture
-<html>
+
+<!DOCTYPE html>
+<html lang="en">
 <head>
-FaceBook 
+    <meta charset="UTF-8">
+    <title>New</title>
 </head>
 <body>
-<h1> &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Facebook</h1>
-<h2>Log In</h2>
-<p>Enter your credentials</p>
-<p1> Email - <br> passowrd -  </p1>
-<h3> Submit </h3>
+    <p>Hello world</p>
 </body>
 </html>
-
-
